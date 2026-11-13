@@ -6,3 +6,8 @@ seaborn>=0.13.0
 scikit-learn>=1.5.0
 # Optional for dashboard work:
 # streamlit>=1.35.0
+streamlit
+pandas
+numpy
+plotly
+openpyxl
